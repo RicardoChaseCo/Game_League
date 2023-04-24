@@ -5,7 +5,7 @@ http://xingnanjiangprojectgame.online/
 * CSS modules
 * React Hook Forms
 * Zod
-* React Query
+* React Query for caching and state management
 * React Router
 * Zustand
 * ChakraUI
