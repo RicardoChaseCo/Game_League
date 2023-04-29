@@ -3,7 +3,7 @@ http://xingnanjiangprojectgame.online/
 
 ### Tech Stacks
 * React Hook Forms for forms
-* Zod and Zustand
+* Zod and Zustand to accomodate TypeScript
 * React Query for caching and global state management
 * React Router for routing
 * React Icons for icons
