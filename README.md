@@ -5,7 +5,7 @@ http://xingnanjiangprojectgame.online/
 * React Hook Forms for forms
 * Zod schema validation
 * Zustand for global state management (alternative to Redux)
-* React Query for caching and global state management
+* React Query for caching and state management
 * React Router for routing
 * React Icons for icons
 * ChakraUI and Bootstrap for styling
